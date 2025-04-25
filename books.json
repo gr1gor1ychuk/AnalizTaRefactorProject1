@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Tom Soyer",
+        "author": "Picasso",
+        "genre": "Романтика",
+        "year": 1890,
+        "available": true,
+        "times_borrowed": 1,
+        "publisher": "Невідомий видавець",
+        "page_count": 0,
+        "description": "Опис відсутній"
+    },
+    {
+        "id": 2,
+        "title": "Жжжоав",
+        "author": "флащ",
+        "genre": "Інше",
+        "year": 2025,
+        "available": true,
+        "times_borrowed": 0,
+        "publisher": "Невідомий видавець",
+        "page_count": 0,
+        "description": "Опис відсутній"
+    }
+]

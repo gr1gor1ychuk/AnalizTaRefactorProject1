@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Hola",
+        "author": "Russo",
+        "genre": "Фантастика",
+        "year": 2000,
+        "available": false,
+        "times_borrowed": 1,
+        "publisher": "Невідомий видавець",
+        "page_count": 0,
+        "description": "Опис відсутній"
+    },
+    {
+        "id": 1,
+        "title": "Гаррі Поттер",
+        "author": "Дж. К. Роулінг",
+        "genre": "Фантастика",
+        "year": 1997,
+        "available": true,
+        "times_borrowed": 0,
+        "publisher": "Невідомий видавець",
+        "page_count": 0,
+        "description": "Опис відсутній"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "Джордж Оруелл",
+        "genre": "Антиутопія",
+        "year": 1949,
+        "available": true,
+        "times_borrowed": 0,
+        "publisher": "Невідомий видавець",
+        "page_count": 0,
+        "description": "Опис відсутній"
+    },
+    {
+        "id": 3,
+        "title": "Кобзар",
+        "author": "Тарас Шевченко",
+        "genre": "Поезія",
+        "year": 1840,
+        "available": true,
+        "times_borrowed": 0,
+        "publisher": "Невідомий видавець",
+        "page_count": 0,
+        "description": "Опис відсутній"
+    }
+]

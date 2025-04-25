@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Denis",
+        "email": "gred@gmail.com",
+        "phone": "69572552",
+        "borrowed_books": [],
+        "history": [
+            {
+                "book_id": 1,
+                "action": "borrowed",
+                "date": "2025-04-24 21:58:47"
+            },
+            {
+                "book_id": 1,
+                "action": "returned",
+                "date": "2025-04-24 22:08:15"
+            }
+        ],
+        "registration_date": "2025-04-25",
+        "last_activity": "2025-04-25",
+        "is_active": true
+    }
+]

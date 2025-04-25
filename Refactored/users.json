@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Den",
+        "email": "asfas@gmail.com",
+        "phone": "4124215",
+        "borrowed_books": [
+            1
+        ],
+        "history": [
+            {
+                "book_id": 1,
+                "action": "borrowed",
+                "date": "2025-04-25 11:08:20"
+            }
+        ],
+        "registration_date": "2025-04-25",
+        "last_activity": "2025-04-25",
+        "is_active": true
+    },
+    {
+        "id": 1,
+        "name": "Іван Петренко",
+        "email": "ivan@example.com",
+        "phone": "0991234567",
+        "borrowed_books": [],
+        "history": [],
+        "registration_date": "2025-04-25",
+        "last_activity": "2025-04-25",
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "name": "Марія Коваленко",
+        "email": "maria@example.com",
+        "phone": "0667654321",
+        "borrowed_books": [],
+        "history": [],
+        "registration_date": "2025-04-25",
+        "last_activity": "2025-04-25",
+        "is_active": true
+    }
+]
